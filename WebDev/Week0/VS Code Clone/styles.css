@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: hsl(0, 0%, 100%);
+}
+/* .topbar{
+    color: grey;
+    padding-left: 10px;
+} */
+header{
+    background-color: brown;
+    display: flex;
+    justify-content: space-between;
+}
+.left{
+    background-color: rgb(96, 164, 110);
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    list-style: none;
+    margin-left: 200;
+    margin-right: 80px;
+    background-color:aqua;
+    display: flex;
+}
+img{
+    height: 25px;
+    margin-left: 180;
+}
